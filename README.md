@@ -1,2 +1,2 @@
-# Mediro
-ezCareTech_project
+# SDS
+Stuffed Donation Stickers in Spoon Radio
